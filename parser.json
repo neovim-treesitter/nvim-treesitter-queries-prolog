@@ -1,0 +1,8 @@
+{
+  "location": "grammars/prolog",
+  "semver": false,
+  "url": "https://github.com/foxyseta/tree-sitter-prolog",
+  "lang": "prolog",
+  "min_version": null,
+  "max_version": null
+}
